@@ -1,0 +1,2 @@
+# batuhan-ozen-meta-front-end-certification
+Comprehensive coursework, projects, and notes from the Meta Front-End Developer Professional Certificate. Covers HTML, CSS, JavaScript, React, Git, responsive design, UI/UX, accessibility, API integration, and testing. Showcases expertise in building modern, accessible web applications.
